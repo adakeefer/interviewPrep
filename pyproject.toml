@@ -1,0 +1,4 @@
+[tool.pytest.ini_options]
+testpaths = ["codingQuestions"]
+python_files = ["*.py"]
+python_functions = ["test_*"]
