@@ -1,0 +1,11 @@
+datetime,amount,description,journal_entry_id
+3/14/23 0:00,-1075000,Estimated Taxes,3c2aa2f1-8a01-4f7a-bf2a-9cd531c7db2a
+1/25/24 0:00,20000,Issue Triage,b0cb1f1b-b34e-42b9-865a-1e00bb2d404b
+1/25/24 0:00,20000,License Renewal,b0cb1f1b-b34e-42b9-865a-1e00bb2d404b
+5/4/23 0:00,12666.5,Software subscription,03054012-9cb7-47cc-b08c-78d1e009c70f
+5/4/23 0:00,-12666.5,TRAVEL ADVANCE,03054012-9cb7-47cc-b08c-78d1e009c70f
+9/25/23 0:00,7980.42,hardware accessories,835b671f-6b83-49b5-ad06-6b489a58d4e4
+9/25/23 0:00,-7980.42,Insurance Premiums,835b671f-6b83-49b5-ad06-6b489a58d4e4
+3/19/24 0:00,-1074.79,Data Storage,ebb1d6f6-5b0c-48ce-baba-4aff5055d709
+3/19/24 0:00,-1074.79,knowledge transfer,8cc23035-7a1f-4584-824a-b0e46a77d0ba
+2/14/24 0:00,-13312.66,,59fd741c-9274-4b1d-95f7-9ac2631d26aa
